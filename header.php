@@ -69,7 +69,7 @@
           <nav>
             <div class="logo">
               <a href="index.php">
-                <img src="assets/images/logo2.png">
+                <img src="assets/images/logo2.PNG">
               </a>
             </div>
             <ul class="social">
